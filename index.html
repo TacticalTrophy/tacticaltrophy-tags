@@ -1483,24 +1483,17 @@ async function saveToGitHub() {
   const content = btoa(unescape(encodeURIComponent(JSON.stringify(data, null, 2))));
   showSyncStatus('⟳ Opslaan…', '#94a3b8');
   try {
-    const hdrs = {'Authorization': `token ${GITHUB_TOKEN}`, 'Accept': 'application/vnd.github.v3+json'};
-    if (!_ghSha) {
-      const r = await fetch(`https://api.github.com/repos/${GITHUB_REPO}/contents/${GITHUB_FILE}`, {headers: hdrs});
-      if (r.ok) _ghSha = (await r.json()).sha;
-    }
-    const body = {message: `sync ${new Date().toISOString().slice(0,16)}`, content};
-    if (_ghSha) body.sha = _ghSha;
-    const res = await fetch(`https://api.github.com/repos/${GITHUB_REPO}/contents/${GITHUB_FILE}`, {
-      method: 'PUT', headers: {...hdrs, 'Content-Type': 'application/json'}, body: JSON.stringify(body)
+    const res = await fetch('https://api.tacticaltrophy.com/save-tags', {
+      method: 'POST', headers: {'Content-Type': 'application/json'}, body: JSON.stringify({content})
     });
     if (res.ok) {
-      _ghSha = (await res.json()).content.sha;
+      _ghSha = (await res.json()).sha;
       _dirty.clear();  // succesvol opgeslagen → niet meer dirty
       _ghDirty = false;
       showSyncStatus('✓ Opgeslagen', '#4ade80');
       return true;
     } else {
-      _ghSha = null;  // reset zodat volgende poging verse SHA ophaalt
+      _ghSha = null;
       showSyncStatus('⚠ Conflict – opnieuw proberen…', '#f87171');
       setTimeout(saveToGitHub, 5000);
       return false;
