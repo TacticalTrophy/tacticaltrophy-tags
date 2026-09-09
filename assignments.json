@@ -16824,7 +16824,6 @@
     "picatinny-rails"
   ],
   "contessa-picatinny-rail-nv-ph70-nv": [
-    "nachtzicht-handheld",
     "picatinny-rails"
   ],
   "contessa-picatinny-rail-nv-ph02-nv": [
@@ -17150,6 +17149,77 @@
     "contessa-adapter-tactical-ringen": [
       "contessa",
       "accessoires"
+    ],
+    "contessa-light-picatinny-ringen-lpr": [
+      "contessa",
+      "montageringen"
+    ],
+    "contessa-light-weaver-ringen-lwr": [
+      "contessa",
+      "montageringen"
+    ],
+    "contessa-magic-rd-c": [
+      "contessa"
+    ],
+    "contessa-magic-rd-a": [
+      "contessa"
+    ],
+    "contessa-fx01-sp02": [
+      "contessa"
+    ],
+    "contessa-fx02-sp05": [
+      "contessa"
+    ],
+    "contessa-fx02-sp02": [
+      "contessa"
+    ],
+    "contessa-sbb02-sp03": [
+      "contessa"
+    ],
+    "contessa-sbb02-sp02": [
+      "contessa"
+    ],
+    "contessa-sbb02-sp11": [
+      "contessa"
+    ],
+    "contessa-sbb13": [
+      "contessa"
+    ],
+    "contessa-sb02sx-sp01": [
+      "contessa"
+    ],
+    "contessa-sb02-sp02": [
+      "contessa"
+    ],
+    "contessa-sb01-sp02": [
+      "contessa"
+    ],
+    "contessa-picatinny-rail-ph50": [
+      "contessa"
+    ],
+    "contessa-picatinny-rail-nv-ph70-nv": [
+      "contessa"
+    ],
+    "contessa-picatinny-rail-nv-ph02-nv": [
+      "contessa"
+    ],
+    "contessa-picatinny-rail-ph16": [
+      "contessa"
+    ],
+    "contessa-picatinny-rail-ph65": [
+      "contessa"
+    ],
+    "contessa-picatinny-rail-ph09": [
+      "contessa"
+    ],
+    "contessa-picatinny-rail-ph86": [
+      "contessa"
+    ],
+    "contessa-picatinny-rail-ph94": [
+      "contessa"
+    ],
+    "contessa-picatinny-rail-ph08": [
+      "contessa"
     ]
   },
   "_done": [
@@ -22578,6 +22648,80 @@
     "contessa-utfx02-fw",
     "contessa-utfx03",
     "contessa-utfx03-fw",
-    "contessa-utfx05"
+    "contessa-utfx05",
+    "contessa-utfx06",
+    "contessa-utqr02",
+    "contessa-utqr03",
+    "contessa-utqr05",
+    "contessa-utqr06",
+    "contessa-picatinny-ex-ordnance",
+    "contessa-picatinny-rail-ph17",
+    "contessa-picatinny-rail-ph95",
+    "contessa-picatinny-rail-ph53",
+    "contessa-picatinny-rail-ph107",
+    "contessa-picatinny-rail-ph67",
+    "contessa-picatinny-rail-ph44",
+    "contessa-picatinny-rail-ph43",
+    "contessa-picatinny-rail-ph93",
+    "contessa-picatinny-rail-ph28",
+    "contessa-picatinny-rail-ph63",
+    "contessa-picatinny-rail-ph49",
+    "contessa-picatinny-rail-ph92",
+    "contessa-picatinny-rail-ph50",
+    "contessa-picatinny-rail-ph69",
+    "contessa-picatinny-rail-ph62",
+    "contessa-picatinny-rail-ph78",
+    "contessa-picatinny-rail-ph54",
+    "contessa-picatinny-rail-ph105",
+    "contessa-picatinny-rail-ph72",
+    "contessa-picatinny-rail-ph10",
+    "contessa-picatinny-rail-ph101",
+    "contessa-picatinny-rail-ph27",
+    "contessa-picatinny-rail-ph26",
+    "contessa-picatinny-rail-ph25",
+    "contessa-picatinny-rail-ph79",
+    "contessa-picatinny-rail-ph23",
+    "contessa-picatinny-rail-ph106",
+    "contessa-picatinny-rail-ph75",
+    "contessa-picatinny-rail-ph70",
+    "contessa-picatinny-rail-nv-ph83-nv",
+    "contessa-picatinny-rail-nv-ph77-nv",
+    "contessa-picatinny-rail-nv-ph76-nv",
+    "contessa-picatinny-rail-nv-ph52-nv",
+    "contessa-picatinny-rail-nv-ph51-nv",
+    "contessa-picatinny-rail-nv-ph04-nv",
+    "contessa-picatinny-rail-nv-ph45-nv",
+    "contessa-picatinny-rail-nv-ph17-nv",
+    "contessa-picatinny-rail-nv-ph67-nv",
+    "contessa-picatinny-rail-nv-ph107-nv",
+    "contessa-picatinny-rail-nv-ph44-nv",
+    "contessa-picatinny-rail-nv-ph43-nv",
+    "contessa-picatinny-rail-nv-ph62-nv",
+    "contessa-picatinny-rail-nv-ph27-nv",
+    "contessa-picatinny-rail-nv-ph23-nv",
+    "contessa-picatinny-rail-nv-ph70-nv",
+    "contessa-picatinny-rail-nv-ph02-nv",
+    "contessa-picatinny-rail-nv-ph15-nv",
+    "contessa-picatinny-rail-nv-ph20-nv",
+    "contessa-picatinny-rail-nv-ph08-nv",
+    "contessa-picatinny-rail-nv-ph14-nv",
+    "contessa-picatinny-rail-nv-ph13-nv",
+    "contessa-picatinny-rail-nv-ph12-nv",
+    "contessa-picatinny-rail-nv-ph31-nv",
+    "contessa-picatinny-rail-nv-ph33-nv",
+    "contessa-picatinny-rail-nv-ph03-nv",
+    "contessa-picatinny-rail-nv-ph57-nv",
+    "contessa-picatinny-rail-nv-ph47-nv",
+    "contessa-picatinny-rail-nv-ph05-nv",
+    "contessa-picatinny-rail-ph15",
+    "contessa-picatinny-rail-ph02",
+    "contessa-picatinny-rail-ph80",
+    "contessa-picatinny-rail-ph16",
+    "contessa-picatinny-rail-ph65",
+    "contessa-picatinny-rail-ph64",
+    "contessa-picatinny-rail-ph09",
+    "contessa-picatinny-rail-ph86",
+    "contessa-picatinny-rail-ph94",
+    "contessa-picatinny-rail-ph08"
   ]
 }
