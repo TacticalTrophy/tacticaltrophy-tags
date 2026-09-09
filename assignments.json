@@ -98,6 +98,28 @@
   "contessa-blaser-picatinny-rail": [
     "picatinny-rails"
   ],
+  "contessa-picatinny-ringen-spp": [
+    "2-delige-montages"
+  ],
+  "contessa-spp02-d": [
+    "2-delige-montages"
+  ],
+  "contessa-picatinny-ultra-tactical": [
+    "1-delige-montages",
+    "picatinny-rails"
+  ],
+  "contessa-sw01": [
+    "picatinny-rails"
+  ],
+  "contessa-red-dot-qd-montage-eu": [
+    "montagebasissen"
+  ],
+  "contessa-red-dot-qd-montage-picatinny": [
+    "montagebasissen"
+  ],
+  "contessa-ring-reducties": [
+    "montage-accessoires"
+  ],
   "contessa-sbt01": [
     "1-delige-montages"
   ],
@@ -148,6 +170,102 @@
   ],
   "contessa-sp08-f": [
     "montage-accessoires"
+  ],
+  "contessa-sp04": [
+    "montage-accessoires"
+  ],
+  "contessa-sp05": [
+    "montage-accessoires"
+  ],
+  "contessa-sp06": [
+    "montage-accessoires"
+  ],
+  "contessa-sp01": [
+    "montage-accessoires"
+  ],
+  "contessa-sp02": [
+    "montage-accessoires"
+  ],
+  "contessa-sp03": [
+    "montage-accessoires"
+  ],
+  "contessa-sp10": [
+    "montage-accessoires"
+  ],
+  "contessa-sdt01-b": [
+    "2-delige-montages"
+  ],
+  "contessa-sdt01-b-sr": [
+    "2-delige-montages"
+  ],
+  "contessa-sdt01-a-sr": [
+    "2-delige-montages"
+  ],
+  "contessa-sdt01-c-sr": [
+    "2-delige-montages"
+  ],
+  "contessa-sdt02-a-sr": [
+    "2-delige-montages"
+  ],
+  "contessa-sdt02-b": [
+    "2-delige-montages"
+  ],
+  "contessa-sdt02-b-sr": [
+    "2-delige-montages"
+  ],
+  "contessa-sdt02-c-sr": [
+    "2-delige-montages"
+  ],
+  "contessa-sp09": [
+    "montage-accessoires"
+  ],
+  "contessa-simple-black-blaser-montage": [
+    "1-delige-montages"
+  ],
+  "contessa-simple-black-picatinny-montage": [
+    "montagebasissen"
+  ],
+  "contessa-simple-black-picatinny-scope": [
+    "1-delige-montages"
+  ],
+  "contessa-simple-black-qd-montage": [
+    "montagebasissen"
+  ],
+  "contessa-tactical-ringen-str": [
+    "2-delige-montages"
+  ],
+  "contessa-utfx01": [
+    "1-delige-montages"
+  ],
+  "contessa-utfx02": [
+    "1-delige-montages"
+  ],
+  "contessa-utfx02-fw": [
+    "1-delige-montages"
+  ],
+  "contessa-utfx03": [
+    "1-delige-montages"
+  ],
+  "contessa-utfx03-fw": [
+    "1-delige-montages"
+  ],
+  "contessa-utfx05": [
+    "1-delige-montages"
+  ],
+  "contessa-utfx06": [
+    "1-delige-montages"
+  ],
+  "contessa-utqr02": [
+    "1-delige-montages"
+  ],
+  "contessa-utqr03": [
+    "1-delige-montages"
+  ],
+  "contessa-utqr05": [
+    "1-delige-montages"
+  ],
+  "contessa-utqr06": [
+    "1-delige-montages"
   ],
   "agm-3x-afocal-vergrootlens-61023xa1-121104": [
     "nachtzicht-warmtebeeld-accessoires",
@@ -22378,6 +22496,88 @@
     "thermtec-wild-650dl-pro",
     "thermtec-wild-650l-pro",
     "tripod-two-vets-qdt-v2-ls1",
-    "tripod-two-vets-recon-v2-ls1"
+    "tripod-two-vets-recon-v2-ls1",
+    "contessa-adapter-tactical-ringen",
+    "contessa-light-picatinny-ringen-lpr",
+    "contessa-light-weaver-ringen-lwr",
+    "contessa-magic-rd-c",
+    "contessa-magic-rd-a",
+    "contessa-fx01-sp02",
+    "contessa-fx02-sp05",
+    "contessa-fx02-sp02",
+    "contessa-sbb02-sp03",
+    "contessa-sbb02-sp02",
+    "contessa-sbb02-sp11",
+    "contessa-sbb13",
+    "contessa-sb02sx-sp01",
+    "contessa-sb02-sp02",
+    "contessa-sb01-sp02",
+    "contessa-sb03",
+    "contessa-ulp03",
+    "contessa-fx01-sp05",
+    "contessa-frb02-a",
+    "contessa-frb02-b",
+    "contessa-frb03-a",
+    "contessa-frb03-b",
+    "contessa-frb03-c",
+    "contessa-ebb03",
+    "contessa-pr01",
+    "contessa-ph29",
+    "contessa-ph29-20",
+    "contessa-ph29-30",
+    "contessa-ph04",
+    "contessa-ph45",
+    "contessa-blaser-picatinny-rail",
+    "contessa-picatinny-ringen-spp",
+    "contessa-spp02-d",
+    "contessa-picatinny-ultra-tactical",
+    "contessa-sw01",
+    "contessa-red-dot-qd-montage-eu",
+    "contessa-red-dot-qd-montage-picatinny",
+    "contessa-ring-reducties",
+    "contessa-sbt01",
+    "contessa-sbt02",
+    "contessa-sbt02fw",
+    "contessa-sbt03",
+    "contessa-sbt03fw",
+    "contessa-sbt04",
+    "contessa-sbtfx01",
+    "contessa-sbtfx02",
+    "contessa-sbtfx03",
+    "contessa-sbtfx04",
+    "contessa-sp07",
+    "contessa-sp08-d",
+    "contessa-sp08-e",
+    "contessa-sp08-a",
+    "contessa-sp08-c",
+    "contessa-sp08-b",
+    "contessa-sp08-f",
+    "contessa-sp04",
+    "contessa-sp05",
+    "contessa-sp06",
+    "contessa-sp01",
+    "contessa-sp02",
+    "contessa-sp03",
+    "contessa-sp10",
+    "contessa-sdt01-b",
+    "contessa-sdt01-b-sr",
+    "contessa-sdt01-a-sr",
+    "contessa-sdt01-c-sr",
+    "contessa-sdt02-a-sr",
+    "contessa-sdt02-b",
+    "contessa-sdt02-b-sr",
+    "contessa-sdt02-c-sr",
+    "contessa-sp09",
+    "contessa-simple-black-blaser-montage",
+    "contessa-simple-black-picatinny-montage",
+    "contessa-simple-black-picatinny-scope",
+    "contessa-simple-black-qd-montage",
+    "contessa-tactical-ringen-str",
+    "contessa-utfx01",
+    "contessa-utfx02",
+    "contessa-utfx02-fw",
+    "contessa-utfx03",
+    "contessa-utfx03-fw",
+    "contessa-utfx05"
   ]
 }
