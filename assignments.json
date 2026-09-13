@@ -17100,9 +17100,6 @@
     "konus-spotting-scope-konuspot-100c-20-60x100-437127": [
       "ads-excluded-google"
     ],
-    "kowa-verrekijker-genesis-prominar-44-xd-85x44-440844": [
-      "ads-excluded-google"
-    ],
     "contessa-adapter-tactical-ringen": [
       "contessa",
       "accessoires"
@@ -17758,6 +17755,11 @@
     "contessa-utqr06": [
       "contessa",
       "montages"
+    ]
+  },
+  "_added": {
+    "kowa-verrekijker-genesis-prominar-44-xd-85x44-440844": [
+      "ads-excluded-google"
     ]
   },
   "_filtered": [
