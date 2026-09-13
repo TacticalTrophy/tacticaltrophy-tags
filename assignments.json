@@ -1,41 +1,5 @@
 {
   "_flags": [],
-  "konus-spotting-scope-konuspot-100c-20-60x100-437127": [
-    "spotting-scopes"
-  ],
-  "konus-spotting-scope-konuspot-50-15-40x50-437124": [
-    "spotting-scopes"
-  ],
-  "konus-spotting-scope-konuspot-70b-20-60x70-437336": [
-    "spotting-scopes"
-  ],
-  "kowa-compact-spotting-scope-tsn-501-20-40x50-446501": [
-    "spotting-scopes"
-  ],
-  "kowa-spotting-scope-body-tsn-82sv-440820": [
-    "spotting-scopes"
-  ],
-  "kowa-spotting-scope-tsn-55s-prominar-incl-17-40x-oculair-441556": [
-    "spotting-scopes"
-  ],
-  "kowa-spotting-scope-tsn-663m-prominar-tse-z9b-20-60x-oculair-440669": [
-    "spotting-scopes"
-  ],
-  "kowa-spotting-scope-tsn-99a-prominar-kit-met-te-11wz-ii-wa-oculair-440991": [
-    "spotting-scopes"
-  ],
-  "noblex-spotting-scope-ns-20-60x80-ed-inception-460061": [
-    "spotting-scopes"
-  ],
-  "spotting-scope-vanguard-vesta-460a-15-50x60": [
-    "spotting-scopes"
-  ],
-  "spotting-scope-vector-optics-forester-20-60x60": [
-    "spotting-scopes"
-  ],
-  "leupold-spotting-scope-sx-4-pro-guide-hd-15-45x65-angled": [
-    "spotting-scopes"
-  ],
   "agm-3x-afocal-vergrootlens-61023xa1-121104": [
     "nachtzicht-warmtebeeld-accessoires",
     "voorzetvergrotingen"
@@ -939,7 +903,16 @@
   "konus-richtkijker-wild-4-12x40-437334": [
     "richtkijkers"
   ],
+  "konus-spotting-scope-konuspot-100c-20-60x100-437127": [
+    "spotting-scopes"
+  ],
+  "konus-spotting-scope-konuspot-50-15-40x50-437124": [
+    "spotting-scopes"
+  ],
   "konus-spotting-scope-konuspot-65c-15-45x65-437128": [
+    "spotting-scopes"
+  ],
+  "konus-spotting-scope-konuspot-70b-20-60x70-437336": [
     "spotting-scopes"
   ],
   "konus-spotting-scope-konuspot-80c-20-60x80-437126": [
@@ -1077,6 +1050,9 @@
   ],
   "kowa-adapterring-tsn-ar62-440262": [
     "filmen-opnemen"
+  ],
+  "kowa-compact-spotting-scope-tsn-501-20-40x50-446501": [
+    "spotting-scopes"
   ],
   "kowa-compact-spotting-scope-tsn-502-20-40x50-446502": [
     "spotting-scopes"
@@ -1241,6 +1217,9 @@
   "kowa-spotting-scope-body-tsn-66s-prominar-441668": [
     "spotting-scopes"
   ],
+  "kowa-spotting-scope-body-tsn-82sv-440820": [
+    "spotting-scopes"
+  ],
   "kowa-spotting-scope-body-tsn-88a-prominar-441887": [
     "spotting-scopes"
   ],
@@ -1253,7 +1232,13 @@
   "kowa-spotting-scope-tsn-55a-prominar-incl-17-40x-oculair-441555": [
     "spotting-scopes"
   ],
+  "kowa-spotting-scope-tsn-55s-prominar-incl-17-40x-oculair-441556": [
+    "spotting-scopes"
+  ],
   "kowa-spotting-scope-tsn-601-tse-z9b-20-60x-oculair-440606": [
+    "spotting-scopes"
+  ],
+  "kowa-spotting-scope-tsn-663m-prominar-tse-z9b-20-60x-oculair-440669": [
     "spotting-scopes"
   ],
   "kowa-spotting-scope-tsn-66a-prominar-incl-te-11wz-ii-wa-oculair-441665": [
@@ -1269,6 +1254,9 @@
     "spotting-scopes"
   ],
   "kowa-spotting-scope-tsn-88s-prominar-incl-te-11wz-ii-wa-oculair-441886": [
+    "spotting-scopes"
+  ],
+  "kowa-spotting-scope-tsn-99a-prominar-kit-met-te-11wz-ii-wa-oculair-440991": [
     "spotting-scopes"
   ],
   "kowa-spotting-scope-tsn-99s-prominar-kit-met-te-11wz-ii-wa-oculair-440992": [
@@ -1513,6 +1501,9 @@
   ],
   "noblex-richtkijker-nz8-25-20x50-lr-inception-ret-mhr-460170": [
     "richtkijkers"
+  ],
+  "noblex-spotting-scope-ns-20-60x80-ed-inception-460061": [
+    "spotting-scopes"
   ],
   "noblex-verrekijker-nf-10x25-inception-460002": [
     "verrekijkers"
@@ -11673,6 +11664,9 @@
   "binocular-vanguard-vesta-10x42": [
     "verrekijkers"
   ],
+  "spotting-scope-vanguard-vesta-460a-15-50x60": [
+    "spotting-scopes"
+  ],
   "spotting-scope-vanguard-vesta-560a-15-45x60": [
     "spotting-scopes"
   ],
@@ -11705,6 +11699,9 @@
   ],
   "rifle-scope-vector-optics-forester-1-8x24-vfd-3-coyote-fde": [
     "richtkijkers"
+  ],
+  "spotting-scope-vector-optics-forester-20-60x60": [
+    "spotting-scopes"
   ],
   "red-dot-vector-optics-frenzy-1x16x21-glock-mos": [
     "red-dots"
@@ -16970,6 +16967,9 @@
   "hornady-sleeve-polishing-device-m1-220-volts": [
     "polijsttrommels"
   ],
+  "leupold-spotting-scope-sx-4-pro-guide-hd-15-45x65-angled": [
+    "spotting-scopes"
+  ],
   "thermtec-cyclone-315": [
     "warmtebeeld"
   ],
@@ -17097,6 +17097,9 @@
     "persen-onderdelen"
   ],
   "_removed": {
+    "konus-spotting-scope-konuspot-100c-20-60x100-437127": [
+      "ads-excluded-google"
+    ],
     "kowa-verrekijker-genesis-prominar-44-xd-85x44-440844": [
       "ads-excluded-google"
     ],
