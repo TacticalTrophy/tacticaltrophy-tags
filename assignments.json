@@ -1,6 +1,18 @@
 {
   "_flags": [],
-  "brigitte-von-sch-nfels-bvs-woolly-quilted-corduroy-jacket": [],
+  "agm-observir-lrf-25-256-warmtebeeldnachtzicht-fusion-camera-met-laser-rangefinder-121311": [
+    "multispectral",
+    "nachtzicht-handheld",
+    "warmtebeeld"
+  ],
+  "buteo-photo-gear-3d-blaadjes-masker-720099": [
+    "camouflage-kleding"
+  ],
+  "buteo-photo-gear-3d-blaadjes-pak-2-delig-maat-ml-720104": [],
+  "buteo-photo-gear-3d-blaadjes-pak-2-delig-maat-xlxxl-720105": [],
+  "buteo-photo-gear-3d-blaadjes-poncho-720102": [],
+  "buteo-photo-gear-baghide-groen-720069": [],
+  "buteo-photo-gear-hybride-camouflagenet-natural-brown-15x3-m-720721": [],
   "agm-3x-afocal-vergrootlens-61023xa1-121104": [
     "nachtzicht-warmtebeeld-accessoires",
     "voorzetvergrotingen"
@@ -3851,9 +3863,6 @@
   "deerhunter-fleecevest-cumbria-voor-dames": [
     "dames-jachtvesten"
   ],
-  "deerhunter-handschoenen-met-siliconcoating": [
-    "jacht-handschoenen"
-  ],
   "deerhunter-heat-game-jacket": [
     "jacht-jassen"
   ],
@@ -4832,9 +4841,6 @@
     "jachtmessen"
   ],
   "herbertz-multi-tool": [
-    "multitools"
-  ],
-  "herbertz-multi-tool-herbertz-selectie": [
     "multitools"
   ],
   "herbertz-one-hand-knife-carbon-g10": [
@@ -16269,9 +16275,6 @@
   "zip-pocket-organizer-set-elite-8979": [
     "admin-pouches"
   ],
-  "blueguns-trainingspistolet-h-k-p30": [
-    "trainingsdummies"
-  ],
   "chiruca-boot-alano-force-boa-hi-vis-green": [
     "jachtschoenen"
   ],
@@ -16354,9 +16357,9 @@
     "jachtschoenen"
   ],
   "contessa-adapter-tactical-ringen": [
-    "1-delige-montages",
+    "montage-accessoires",
     "2-delige-montages",
-    "montage-accessoires"
+    "1-delige-montages"
   ],
   "contessa-light-picatinny-ringen-lpr": [
     "2-delige-montages"
@@ -16959,14 +16962,14 @@
   "contessa-utqr06": [
     "1-delige-montages"
   ],
+  "deerhunter-handschoenen-met-siliconcoating": [
+    "jacht-handschoenen"
+  ],
   "heim-lederen-riem": [
     "hondenlijnen-leibanden"
   ],
-  "hornady-sleeve-milling-device": [
-    "hulzentrimmers"
-  ],
-  "hornady-sleeve-polishing-device-m1-220-volts": [
-    "polijsttrommels"
+  "herbertz-multi-tool-herbertz-selectie": [
+    "multitools"
   ],
   "leupold-spotting-scope-sx-4-pro-guide-hd-15-45x65-angled": [
     "spotting-scopes"
@@ -17028,9 +17031,6 @@
   "tripod-two-vets-recon-v2-ls1": [
     "statieven"
   ],
-  "glasses-wiley-x-saber-adv-light-rust-black-frame1x": [
-    "oogbescherming"
-  ],
   "hornady-custom-grade-steekset-voor-lange-geweren-2-delig": [
     "dies"
   ],
@@ -17091,6 +17091,12 @@
   "hornady-primer-cap-handmatige-insteltool": [
     "hand-priming-tools"
   ],
+  "hornady-sleeve-milling-device": [
+    "hulzentrimmers"
+  ],
+  "hornady-sleeve-polishing-device-m1-220-volts": [
+    "polijsttrommels"
+  ],
   "hornady-unique-hulsfet": [
     "hulzenvet"
   ],
@@ -17098,6 +17104,27 @@
     "persen-onderdelen"
   ],
   "_removed": {
+    "agm-observir-lrf-25-256-warmtebeeldnachtzicht-fusion-camera-met-laser-rangefinder-121311": [
+      "ads-excluded"
+    ],
+    "buteo-photo-gear-3d-blaadjes-masker-720099": [
+      "ads-excluded"
+    ],
+    "buteo-photo-gear-3d-blaadjes-pak-2-delig-maat-ml-720104": [
+      "ads-excluded"
+    ],
+    "buteo-photo-gear-3d-blaadjes-pak-2-delig-maat-xlxxl-720105": [
+      "ads-excluded"
+    ],
+    "buteo-photo-gear-3d-blaadjes-poncho-720102": [
+      "ads-excluded"
+    ],
+    "buteo-photo-gear-baghide-groen-720069": [
+      "ads-excluded"
+    ],
+    "buteo-photo-gear-hybride-camouflagenet-natural-brown-15x3-m-720721": [
+      "ads-excluded"
+    ],
     "brigitte-von-sch-nfels-bvs-woolly-quilted-corduroy-jacket": [
       "ads-excluded-google"
     ],
@@ -17759,6 +17786,9 @@
     "contessa-utqr06": [
       "contessa",
       "montages"
+    ],
+    "tripod-two-vets-recon-v2-ls1": [
+      "ads-excluded"
     ]
   },
   "_added": {
@@ -23340,6 +23370,8 @@
     "contessa-picatinny-rail-ph18",
     "contessa-picatinny-rail-ph57",
     "contessa-picatinny-rail-ph47",
-    "contessa-picatinny-rail-ph05"
+    "contessa-picatinny-rail-ph05",
+    "agm-observir-lrf-25-256-warmtebeeldnachtzicht-fusion-camera-met-laser-rangefinder-121311",
+    "buteo-photo-gear-3d-blaadjes-masker-720099"
   ]
 }
